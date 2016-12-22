@@ -17,10 +17,7 @@ import java.nio.channels.ReadableByteChannel;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author dex
- */
+
 public class Download  {   
    
     public static String threadName;
